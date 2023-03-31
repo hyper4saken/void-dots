@@ -1,6 +1,6 @@
 # ~/.config/starship.toml
 [character] # The name of the module we are configuring is 'character'
-success_symbol = '[ ](bold blue)'
+success_symbol = '[ ](bold green)'
 
 [battery]
 disabled = true
